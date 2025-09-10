@@ -1,6 +1,6 @@
 # lver_eos
 
-This is a repo containing 3D design files and firmware for a 44 key split keyboard based on the [scotto44](https://scottokeebs.com/blogs/keyboards/scotto44-handwired-keyboard).
+This is a repo containing 3D design files and firmware for ***EOS*** a 44 key split keyboard based on the [scotto44](https://scottokeebs.com/blogs/keyboards/scotto44-handwired-keyboard).
 
 ## Images
 
